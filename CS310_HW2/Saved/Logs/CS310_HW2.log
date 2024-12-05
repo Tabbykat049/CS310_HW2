@@ -1477,3 +1477,4 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.05-01.24.31:621][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms
 [2024.12.05-01.24.31:624][597]AssetCheck: New page: Asset Save: Level_one
 [2024.12.05-01.24.31:624][597]LogContentValidation: Display: Validating /Script/Engine.World /Game/HW2_stuff/Level_one.Level_one
+[2024.12.05-01.26.41:982][805]LogHMD: FOpenXRHMD is requesting app exit.  CurrentSessionState: XR_SESSION_STATE_UNKNOWN

@@ -1451,3 +1451,176 @@ The following settings have been applied:
 [2024.12.05-00.54.44:373][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 251 ms)
 [2024.12.05-00.54.44:374][906]AssetCheck: New page: Asset Save: IA_Reload_Right
 [2024.12.05-00.54.44:374][906]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/HW2_stuff/IA_Reload_Right.IA_Reload_Right
+[2024.12.05-00.59.27:775][832]LogViewport: Scene viewport resized to 943x748, mode Windowed.
+[2024.12.05-00.59.27:809][832]LogViewport: Scene viewport resized to 972x766, mode Windowed.
+[2024.12.05-00.59.27:858][832]LogViewport: Scene viewport resized to 1005x785, mode Windowed.
+[2024.12.05-00.59.27:909][832]LogViewport: Scene viewport resized to 1057x812, mode Windowed.
+[2024.12.05-00.59.27:959][832]LogViewport: Scene viewport resized to 1114x842, mode Windowed.
+[2024.12.05-00.59.28:008][832]LogViewport: Scene viewport resized to 1134x853, mode Windowed.
+[2024.12.05-00.59.28:059][832]LogViewport: Scene viewport resized to 1153x867, mode Windowed.
+[2024.12.05-00.59.28:109][832]LogViewport: Scene viewport resized to 1178x883, mode Windowed.
+[2024.12.05-00.59.28:159][832]LogViewport: Scene viewport resized to 1219x909, mode Windowed.
+[2024.12.05-00.59.28:209][832]LogViewport: Scene viewport resized to 1263x935, mode Windowed.
+[2024.12.05-00.59.28:259][832]LogViewport: Scene viewport resized to 1286x944, mode Windowed.
+[2024.12.05-00.59.28:309][832]LogViewport: Scene viewport resized to 1311x954, mode Windowed.
+[2024.12.05-00.59.28:360][832]LogViewport: Scene viewport resized to 1348x966, mode Windowed.
+[2024.12.05-00.59.28:410][832]LogViewport: Scene viewport resized to 1374x975, mode Windowed.
+[2024.12.05-00.59.28:459][832]LogViewport: Scene viewport resized to 1412x990, mode Windowed.
+[2024.12.05-00.59.28:509][832]LogViewport: Scene viewport resized to 1442x1005, mode Windowed.
+[2024.12.05-00.59.28:560][832]LogViewport: Scene viewport resized to 1450x1010, mode Windowed.
+[2024.12.05-00.59.28:861][832]LogViewport: Scene viewport resized to 1450x1009, mode Windowed.
+[2024.12.05-01.01.23:128][ 34]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.12.05-01.01.23:137][ 34]LogContentBrowser: Creating deferred item: NewWorld
+[2024.12.05-01.01.23:146][ 35]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.12.05-01.01.33:712][301]LogContentBrowser: Attempting asset rename: NewWorld -> Win_Level
+[2024.12.05-01.01.33:713][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.01.33:713][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.05-01.01.33:716][301]LogContentBrowser: End creating deferred item NewWorld
+[2024.12.05-01.01.36:569][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.05-01.01.38:582][621]LogSlate: Window 'Save Content' being destroyed
+[2024.12.05-01.01.38:595][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-01.01.38:660][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.12.05-01.01.38:663][621]LogSavePackage: Moving output files for package: /Game/HW2_stuff/Win_Level
+[2024.12.05-01.01.38:663][621]LogSavePackage: Moving '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Saved/Win_Level422496DD462F8FBF29745D985427BEE2.tmp' to '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Level.umap'
+[2024.12.05-01.01.38:671][621]LogFileHelpers: Saving map 'Win_Level' took 0.023
+[2024.12.05-01.01.38:680][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 336 ms)
+[2024.12.05-01.01.38:680][621]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HW2_stuff/Win_Level.Win_Level
+[2024.12.05-01.01.38:680][621]Cmd: MAP LOAD FILE="../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.05-01.01.38:680][621]LightingResults: New page: Lighting Build
+[2024.12.05-01.01.38:681][621]LoadErrors: New page: Loading map: Win_Level.umap
+[2024.12.05-01.01.38:709][621]LogWorld: UWorld::CleanupWorld for Level_one, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-01.01.38:709][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-01.01.38:709][621]MapCheck: New page: Map Check
+[2024.12.05-01.01.38:709][621]LightingResults: New page: Lighting Build
+[2024.12.05-01.01.38:722][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-01.01.38:725][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.12.05-01.01.38:727][621]LogWorld: UWorld::CleanupWorld for Win_Level, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-01.01.38:727][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-01.01.38:740][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.05-01.01.38:750][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.05-01.01.38:751][621]LogAudio: Display: Audio Device (ID: 1) registered with world 'Win_Level'.
+[2024.12.05-01.01.38:751][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.01.38:751][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.05-01.01.38:752][621]LogAIModule: Creating AISystem for world Win_Level
+[2024.12.05-01.01.38:777][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-01.01.38:792][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.05-01.01.38:794][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-01.01.38:794][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2024.12.05-01.01.38:804][621]AssetCheck: New page: Asset Save: Win_Level
+[2024.12.05-01.01.38:804][621]LogContentValidation: Display: Validating /Script/Engine.World /Game/HW2_stuff/Win_Level.Win_Level
+[2024.12.05-01.01.48:319][711]LogObjectTools: Deleting 1 worlds: /Game/HW2_stuff/Win_Level.Win_Level
+[2024.12.05-01.01.48:319][711]LogObjectTools: Currently 11 active worlds: /Game/HW2_stuff/Win_Level.Win_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2024.12.05-01.01.49:760][711]LogSlate: Window 'Unable to delete level' being destroyed
+[2024.12.05-01.01.49:768][711]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2024.12.05-01.01.53:220][ 92]LogObjectTools: Deleting 1 worlds: /Game/HW2_stuff/Win_Level.Win_Level
+[2024.12.05-01.01.53:220][ 92]LogObjectTools: Currently 11 active worlds: /Game/HW2_stuff/Win_Level.Win_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2024.12.05-01.01.58:497][ 92]LogSlate: Window 'Unable to delete level' being destroyed
+[2024.12.05-01.01.58:507][ 92]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2024.12.05-01.02.01:840][460]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.05-01.02.19:721][ 81]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: ================================================
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Total job queries 115, among them cache hits 40 (34.78%)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Tracking 75 distinct input hashes that result in 61 distinct outputs (81.33%)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: RAM used: 2.37 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.51
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Shader code size: average 56.316 KiB, min 53.836 KiB, max 58.797 KiB
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.51 s
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Average processing rate: 3.90 jobs/sec
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Total thread time: 0.428 s
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Total thread preprocess time: 0.046 s
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Percentage time preprocessing: 10.69%
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Effective parallelization: 0.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 56.69% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.31% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.12.05-01.02.20:265][144]LogShaderCompilers: Display: ================================================
+[2024.12.05-01.02.20:320][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.22:153][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.24:142][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.41:757][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.41:769][416]LogContentBrowser: Deferred new asset file creation: Level_one1
+[2024.12.05-01.02.41:782][416]LogContentBrowser: Creating deferred item: Level_one1
+[2024.12.05-01.02.41:790][417]LogContentBrowser: Renaming the item being created (Deferred Item: Level_one1).
+[2024.12.05-01.02.50:148][418]LogContentBrowser: Attempting asset rename: Level_one1 -> Win_Levell
+[2024.12.05-01.02.50:182][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.05-01.02.50:196][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.50:209][418]LogContentBrowser: End creating deferred item Level_one1
+[2024.12.05-01.02.52:243][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.05-01.02.53:484][660]LogSlate: Window 'Save Content' being destroyed
+[2024.12.05-01.02.53:497][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-01.02.53:554][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.05-01.02.53:570][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.05-01.02.53:593][660]LogSavePackage: Moving output files for package: /Game/HW2_stuff/Win_Levell
+[2024.12.05-01.02.53:593][660]LogSavePackage: Moving '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Saved/Win_LevellDCA6A72D41378E65553DC79C058E4628.tmp' to '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Levell.umap'
+[2024.12.05-01.02.53:603][660]LogFileHelpers: Saving map 'Win_Levell' took 0.049
+[2024.12.05-01.02.53:611][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 451 ms)
+[2024.12.05-01.02.53:611][660]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HW2_stuff/Win_Levell.Win_Levell
+[2024.12.05-01.02.53:611][660]Cmd: MAP LOAD FILE="../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Levell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.05-01.02.53:611][660]LightingResults: New page: Lighting Build
+[2024.12.05-01.02.53:611][660]LoadErrors: New page: Loading map: Win_Levell.umap
+[2024.12.05-01.02.53:666][660]LogWorld: UWorld::CleanupWorld for Win_Level, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-01.02.53:666][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-01.02.53:667][660]MapCheck: New page: Map Check
+[2024.12.05-01.02.53:667][660]LightingResults: New page: Lighting Build
+[2024.12.05-01.02.53:679][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.05-01.02.53:681][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.05-01.02.53:682][660]LogWorld: UWorld::CleanupWorld for Win_Levell, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-01.02.53:682][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-01.02.53:684][660]LogWorld: UWorld::CleanupWorld for Level_one, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-01.02.53:684][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-01.02.53:699][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.05-01.02.53:712][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.05-01.02.53:723][660]LogAudio: Display: Audio Device (ID: 1) registered with world 'Win_Levell'.
+[2024.12.05-01.02.53:723][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.53:723][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.05-01.02.53:723][660]LogAIModule: Creating AISystem for world Win_Levell
+[2024.12.05-01.02.53:786][660]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.05-01.02.53:799][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.05-01.02.53:801][660]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.05-01.02.53:801][660]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2024.12.05-01.02.53:811][660]AssetCheck: New page: Asset Save: Win_Levell
+[2024.12.05-01.02.53:811][660]LogContentValidation: Display: Validating /Script/Engine.World /Game/HW2_stuff/Win_Levell.Win_Levell
+[2024.12.05-01.02.57:012][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-01.02.57:013][ 20]LogObjectTools: Deleting 1 worlds: /Game/HW2_stuff/Win_Level.Win_Level
+[2024.12.05-01.02.57:013][ 20]LogObjectTools: Currently 15 active worlds: /Game/HW2_stuff/Win_Levell.Win_Levell, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2024.12.05-01.02.57:025][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.05-01.02.58:443][ 20]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.05-01.02.58:450][ 20]LogWorld: UWorld::CleanupWorld for Win_Level, bSessionEnded=true, bCleanupResources=true
+[2024.12.05-01.02.58:450][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.05-01.02.58:466][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.05-01.02.58:479][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.05-01.02.58:490][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.05-01.03.03:162][552]LogContentBrowser: Attempting asset rename: Win_Levell -> Win_Levell
+[2024.12.05-01.03.10:191][381]LogContentBrowser: Attempting asset rename: Win_Levell -> Win_Level
+[2024.12.05-01.03.10:216][381]LogMetaData: Removing '/Game/HW2_stuff/Win_Level.Win_Level_C' ref from Metadata '/Game/HW2_stuff/Win_Levell.PackageMetaData'
+[2024.12.05-01.03.10:216][381]LogMetaData: Removing '/Game/HW2_stuff/Win_Level.SKEL_Win_Level_C' ref from Metadata '/Game/HW2_stuff/Win_Levell.PackageMetaData'
+[2024.12.05-01.03.10:227][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-01.03.10:306][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.05-01.03.10:307][381]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/HW2_stuff/Win_Level does not exist, will not scan.
+[2024.12.05-01.03.10:331][381]LogSavePackage: Moving output files for package: /Game/HW2_stuff/Win_Level
+[2024.12.05-01.03.10:331][381]LogSavePackage: Moving '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Saved/Win_Level020DD7E9479AB6C489291E820A079241.tmp' to '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Level.umap'
+[2024.12.05-01.03.10:339][381]LogFileHelpers: Saving map 'Win_Level' took 0.070
+[2024.12.05-01.03.10:349][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 574 ms)
+[2024.12.05-01.03.10:367][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.05-01.03.10:380][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.05-01.03.10:392][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.05-01.03.10:395][381]AssetCheck: New page: Asset Save: Win_Level
+[2024.12.05-01.03.10:395][381]LogContentValidation: Display: Validating /Script/Engine.World /Game/HW2_stuff/Win_Level.Win_Level
+[2024.12.05-01.03.47:725][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-01.03.47:818][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.05-01.03.47:843][783]LogSavePackage: Moving output files for package: /Game/HW2_stuff/Win_Level
+[2024.12.05-01.03.47:843][783]LogSavePackage: Moving '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Saved/Win_Level6B2B9FD046C01FEA12FD63BB1CED5F50.tmp' to '../../../../../../Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Level.umap'
+[2024.12.05-01.03.47:850][783]LogFileHelpers: Saving map 'Win_Level' took 0.068
+[2024.12.05-01.03.47:859][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 707 ms)
+[2024.12.05-01.03.47:861][783]AssetCheck: New page: Asset Save: Win_Level
+[2024.12.05-01.03.47:861][783]LogContentValidation: Display: Validating /Script/Engine.World /Game/HW2_stuff/Win_Level.Win_Level

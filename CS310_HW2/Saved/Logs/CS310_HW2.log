@@ -2417,3 +2417,4 @@ Script Stack (0 frames) :
 [2024.12.06-17.37.57:174][461]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.12.06-17.37.57:175][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2024.12.06-17.37.57:288][462]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.12.06-17.39.26:948][ 49]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
